@@ -33,16 +33,10 @@ hydra 1 102<br/>
 
 | Two Bursts Curves      | Other Curves      |
 |------------|-------------|
-| <img src="https://github.com/github/v1k1nghawk/blob/media/plot_TRUE01.png" width="250"> | <img src="https://github.com/github/v1k1nghawk/blob/media/plot_FALSE01.png" width="250"> |
-|------------|-------------|
-| <img src="https://github.com/github/v1k1nghawk/blob/media/plot_TRUE02.png" width="250"> | <img src="https://github.com/github/v1k1nghawk/blob/media/plot_FALSE02.png" width="250"> |
-|------------|-------------|
-| <img src="https://github.com/github/v1k1nghawk/blob/media/plot_TRUE03_cover.png" width="250"> | <img src="https://github.com/github/v1k1nghawk/blob/media/plot_FALSE03.png" width="250"> |
-|------------|-------------|
-| <img src="https://github.com/github/v1k1nghawk/blob/media/plot_TRUE04.png" width="250"> | <img src="https://github.com/github/v1k1nghawk/blob/media/plot_FALSE04.png" width="250"> |
-|------------|-------------|
-| <img src="https://github.com/github/v1k1nghawk/blob/media/plot_TRUE05.png" width="250"> | <img src="https://github.com/github/v1k1nghawk/blob/media/plot_FALSE05.png" width="250"> |
-|------------|-------------|
-| <img src="https://github.com/github/v1k1nghawk/blob/media/plot_TRUE06.png" width="250"> | <img src="https://github.com/github/v1k1nghawk/blob/media/plot_FALSE06.png" width="250"> |
-|------------|-------------|
-| <img src="https://github.com/github/v1k1nghawk/blob/media/plot_TRUE07.png" width="250"> | <img src="https://github.com/github/v1k1nghawk/blob/media/plot_FALSE07.png" width="250"> |
+| <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_TRUE01.png" width="350"> | <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_FALSE01.png" width="350"> |
+| <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_TRUE02.png" width="350"> | <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_FALSE02.png" width="350"> |
+| <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_TRUE03_cover.png" width="350"> | <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_FALSE03.png" width="350"> |
+| <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_TRUE04.png" width="350"> | <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_FALSE04.png" width="350"> |
+| <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_TRUE05.png" width="350"> | <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_FALSE05.png" width="350"> |
+| <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_TRUE06.png" width="350"> | <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_FALSE06.png" width="350"> |
+| <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_TRUE07.png" width="350"> | <img src="https://github.com/github/v1k1nghawk/hydra/blob/media/plot_FALSE07.png" width="350"> |
