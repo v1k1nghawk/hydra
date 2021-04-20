@@ -158,13 +158,15 @@ class Datapoint:
         # Prepare X axis
         bin_centers = 0.5*(self.__bin_edges[1:] + self.__bin_edges[:-1])
 
-        # Prepare color
-        if (isinstance(self.__actual_label, bool) != True) or (isinstance(self.__predicted_label, bool) != True): # undefined
+        # Prepare processing status
+        if (isinstance(self.__actual_label, bool) != True) or (isinstance(self.__predicted_label, bool) != True):
+            plot_title='UNDEFINED'
             curve_color="royalblue"
         elif self.__actual_label == self.__predicted_label: # matched
+            plot_title='class ' + str(int(self.__actual_label))+ ' curve'
             curve_color="lime"
         else:
-            print("self.predicted_label", self.__predicted_label) # not matched
+            plot_title='NOT MATCHED'
             curve_color="crimson"
 
         # Plot setup
@@ -175,7 +177,7 @@ class Datapoint:
         plt.legend(loc='upper center')
         plt.xlabel('Slot ID')
         plt.ylabel('Value')
-        plt.title('class ' + str(int(self.__actual_label))+ ' curve')
+        plt.title(str(plot_title))
 
         plt.show()
 
